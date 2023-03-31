@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.11.2
-Release:        1
+Release:        2
 Summary:        More compact and efficient implementations of the standard synchronization primitives
 
 # Upstream license specification: Apache-2.0/MIT
